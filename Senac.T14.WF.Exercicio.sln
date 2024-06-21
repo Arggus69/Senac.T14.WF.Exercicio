@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senac.T14.WF.Exercicio", "Senac.T14.WF.Exercicio.csproj", "{5E5E8693-60FF-4EC8-BA41-1337EA4F3F5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E5E8693-60FF-4EC8-BA41-1337EA4F3F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5E8693-60FF-4EC8-BA41-1337EA4F3F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5E8693-60FF-4EC8-BA41-1337EA4F3F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5E8693-60FF-4EC8-BA41-1337EA4F3F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC5E6EA1-AB09-4649-956E-C3D221991D7F}
+	EndGlobalSection
+EndGlobal
